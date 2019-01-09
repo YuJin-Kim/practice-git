@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//jihyun zzang
 int main()
 {
 	int kor, eng, math;
